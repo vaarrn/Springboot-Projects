@@ -1,0 +1,14 @@
+{
+    "query": "mutation ($file: Upload!) { addStudentsFromJson(file: $file) }",
+    "variables": {
+        "file": null
+    }
+}
+
+
+
+{
+    "0": ["variables.file"]
+}
+
+
